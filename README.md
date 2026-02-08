@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nzxtua
 - 👀 I’m interested in modern frontend technologies and DX
-- 🌱 I’m continuously learning React, Vue and currently learning Astro
+- 🌱 I’m continuously learning React, Vue and modern frontend tooling
 - 💞️ I’m looking to collaborate on things that make the Web more awesome 
 - 📫 You can reach me at @nzxtua 
 - 😄 Pronouns: _/'ɛn zɛt ɛks ti ju ˈeɪ/_
